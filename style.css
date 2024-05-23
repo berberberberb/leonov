@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+h1{
+    color:blueviolet ;
+    text-align: center;
+    border-radius: 5px ;
+    border:white solid 3px;
+    margin: 25px 225px 25px 225px;
+}
+.text-big{
+    color: greenyellow;
+    text-align: center;
+}
+
+a:hover{
+    color: white;
+}
+span{
+    color: green;
+}
+.link-header{
+    color: red;
+}
+.link-text{
+    color: lightblue;
+}
+main{
+    padding: 10px;
+}
+footer{
+    padding: 10px;
+}
+
+
+ul{
+    color: aqua;
+}
+
+
+
+.link-nav{
+    color: red;
+}
+
+
+.link-nav{
+    margin:40px ;
+    text-align: ;
+}
+
+
+
+h2{
+    color: greenyellow;
+}
+ol{
+    color: aqua;
+}
+p{
+    color: aqua;
+}
